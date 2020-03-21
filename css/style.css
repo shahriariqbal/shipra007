@@ -70,13 +70,15 @@ body {
 
 .skillsSection,
 .contactSection {
-	background-color: #e74c3c;
+	/*background-color: #e74c3c;*/
+	background-color:#003152;
 	color: #fff;
 }
 
 .skill {
 	text-align: center;
 	margin-left: 10px;
+
 }
 
 .chart {
@@ -94,7 +96,8 @@ body {
 }
 
 .chart .percent {
-	color: #000;
+	color: #fff;
+	/*color: #000;*/
     line-height: 152px;
     display: inline-block;
     font-size: 35px;
@@ -141,7 +144,7 @@ body {
 	font-size: 56px;
 	margin-bottom: 10px;
 	font-weight: 400;
-	color: #e74c3c;
+	color: /*#e74c3c;*/#003152;
 }
 
 .squareContent h3 {
@@ -172,7 +175,7 @@ body {
 
 .contactButton:hover {
 	text-decoration: none;
-	color: #e74c3c;
+	color: /*#e74c3c;*/#003152;
 	background-color: #fff;
 }
 
@@ -189,8 +192,8 @@ body {
 }
 
 .filter .current {
-	background-color: #e74c3c;;
-	border-color: #e74c3c;
+	background-color: /*#e74c3c;*/#003152;
+	border-color: /*#e74c3c;*/ #003152;
 	color: #fff;
 }
 
@@ -250,7 +253,7 @@ body {
 .items a {
 	width: 40px;
     height: 40px;
-    background-color: #e74c3c;
+    background-color: /*#e74c3c;*/#003152;
     position: relative;
     display: inline-block;
 
@@ -324,7 +327,7 @@ body {
 }
 
 #navigation {
-	background-color: #e74c3c;
+	background-color:   #003152;
     padding: 20px 10px;
     z-index: 100;
     width: 100%;
